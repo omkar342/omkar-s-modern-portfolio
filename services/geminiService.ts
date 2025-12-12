@@ -1,9 +1,5 @@
 import { GoogleGenAI } from "@google/genai";
 
-// Initialize the client
-// Note: In a production environment, ensure API keys are handled securely (e.g., via backend proxy).
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
-
 const SYSTEM_INSTRUCTION = `
 You are CYBER-V, an advanced AI interface for Omkar's digital portfolio.
 Your persona is futuristic, professional, and slightly witty.
@@ -19,6 +15,12 @@ If asked for a resume, direct them to the link in the hero or navbar.
 
 export const generateChatResponse = async (history: {role: string, parts: {text: string}[]}[], userMessage: string): Promise<string> => {
   try {
+    if (!process.env.API_KEY) {
+      console.warn("Gemini API Key is missing.");
+      return "Neural link offline. Please configure the GEMINI_API_KEY in your environment variables.";
+    }
+
+    const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
     const model = 'gemini-2.5-flash';
     
     const chat = ai.chats.create({

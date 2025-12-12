@@ -1,11 +1,11 @@
 [
   {
     "id": "1",
-    "role": "Software Engineer",
+    "role": "Full Stack Developer",
     "company": "Metron Security",
     "period": "Mar 2025 - Present",
     "description": [
-      "Building and maintaining backend services and internal integrations that handle data ingestion, processing, and communication across the platform & reduced processing delays up to 25%.",
+      "Built and maintained backend services and internal integrations that handle data ingestion, processing, and communication across the platform & reduced processing delays up to 25%.",
       "Designed event-driven pipelines using webhooks/streams that enabled real-time handling of alerts and updates, cutting end-to-end processing time from minutes to seconds.",
       "Optimized the SaaS platform UI to visualize system vulnerabilities, improving data accessibility."
     ],
@@ -14,7 +14,7 @@
   },
   {
     "id": "2",
-    "role": "Founding Full Stack Developer",
+    "role": "Full Stack Developer",
     "company": "Civil Guruji",
     "period": "Aug 2023 - Mar 2025",
     "description": [
@@ -26,7 +26,7 @@
   },
   {
     "id": "3",
-    "role": "Software Engineer Intern",
+    "role": "Software Engineer (Internship)",
     "company": "Cerence Inc.",
     "period": "Jan 2023 - Jul 2023",
     "description": [

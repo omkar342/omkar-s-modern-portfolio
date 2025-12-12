@@ -22,7 +22,7 @@ const App: React.FC = () => {
       </main>
       
       <footer className="bg-[#020010] border-t border-white/5 py-12 text-center text-slate-500 text-sm relative z-10">
-        <p className="font-display">&copy; {new Date().getFullYear()} Omkar. Crafted with <span className="text-primary">React</span> & <span className="text-secondary">Gemini</span>.</p>
+        <p className="font-display">&copy; {new Date().getFullYear()} Omkar. Crafted with <span className="text-primary">React</span>.</p>
       </footer>
 
       <ChatAssistant />
