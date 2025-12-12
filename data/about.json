@@ -1,0 +1,40 @@
+{
+  "headline": "Solving <span class=\"text-secondary\">Complex Problems</span>",
+  "subheadline": "I bridge the gap between engineering complexities and business goals.",
+  "bio": {
+    "title": "Full Stack Expertise",
+    "description": "I am a Full-Stack Developer with 2 years of experience building scalable, high-performance web applications using the MERN stack and modern JavaScript technologies. My focus is on creating robust architectures that stand the test of time."
+  },
+  "cards": [
+    {
+      "id": "frontend",
+      "icon": "Zap",
+      "title": "Performance First",
+      "quote": "\"Companies struggle with building fast, user-friendly interfaces that retain users...\"",
+      "description": "I solve this by developing highly responsive and optimized frontends using <span class=\"text-secondary font-medium\">React and TypeScript</span>, which improve load times, user engagement, and overall product experience."
+    },
+    {
+      "id": "backend",
+      "icon": "Server",
+      "title": "Scalable Systems",
+      "quote": "\"Teams often face delays because backend systems are not scalable...\"",
+      "description": "I address this by building reliable <span class=\"text-primary font-medium\">Node.js and Express</span> services, designing efficient APIs, and improving data flow — leading to faster feature delivery and fewer production issues."
+    },
+    {
+      "id": "cloud",
+      "icon": "Cloud",
+      "title": "Cloud Infrastructure",
+      "quote": "\"Engineering teams lose valuable time fixing deployment issues...\"",
+      "description": "I streamline this by using <span class=\"text-accent font-medium\">Docker, AWS, and Azure</span> to build CI/CD pipelines that automate deployments, creating consistent environments and cost-optimized cloud usage."
+    }
+  ],
+  "dsa": {
+    "title": "Algorithmic Mastery",
+    "quote": "\"Large-scale applications often break under load when not built with clean architecture...\"",
+    "description": "By leveraging a strong DSA foundation (<span class=\"text-green-400 font-bold\">400+ problems solved</span>) and system-design thinking, I ensure solutions remain robust and performant as the user base grows.",
+    "solvedCount": "400+"
+  },
+  "experience": {
+    "years": "2+"
+  }
+}

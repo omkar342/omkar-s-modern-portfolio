@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "E-Commerce Analytics",
+    "description": "A comprehensive analytics dashboard with real-time data visualization. Features dark mode, customizable widgets, and inventory predictions.",
+    "tags": ["React", "TypeScript", "Node.js", "MongoDB"],
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
+    "github": "https://github.com",
+    "link": "https://example.com"
+  },
+  {
+    "id": "2",
+    "title": "AI Content Generator",
+    "description": "An AI-powered content creation suite leveraging the Gemini API. Generates marketing copy, code snippets, and images in seconds.",
+    "tags": ["Next.js", "Gemini API", "Tailwind", "Stripe"],
+    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1000",
+    "github": "https://github.com",
+    "link": "https://example.com"
+  },
+  {
+    "id": "3",
+    "title": "Cloud Task Manager",
+    "description": "A collaborative workspace for remote teams. Features real-time updates via WebSockets, drag-and-drop kanban boards, and team roles.",
+    "tags": ["MERN", "Socket.io", "AWS", "Docker"],
+    "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=1000",
+    "github": "https://github.com",
+    "link": "https://example.com"
+  }
+]

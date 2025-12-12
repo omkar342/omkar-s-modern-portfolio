@@ -1,0 +1,64 @@
+[
+  {
+    "id": "1",
+    "role": "Software Engineer",
+    "company": "Metron Security",
+    "period": "Mar 2025 - Present",
+    "description": [
+      "Building and maintaining backend services and internal integrations that handle data ingestion, processing, and communication across the platform & reduced processing delays up to 25%.",
+      "Designed event-driven pipelines using webhooks/streams that enabled real-time handling of alerts and updates, cutting end-to-end processing time from minutes to seconds.",
+      "Optimized the SaaS platform UI to visualize system vulnerabilities, improving data accessibility."
+    ],
+    "skills": ["JavaScript", "React.js", "Microsoft Azure", 
+    "ARM Templates", "Azure Function", "Python", "Amazon EC2", "Docker", "TypeScript", "Go", "AWS"]
+  },
+  {
+    "id": "2",
+    "role": "Founding Full Stack Developer",
+    "company": "Civil Guruji",
+    "period": "Aug 2023 - Mar 2025",
+    "description": [
+      "Enhanced website performance by 30% through efficient API development and played a key role in creating a more intuitive and visually appealing user interface (UI).",
+      "Provisioned an EC2 instance, configured it with NGINX and deployed both the frontend and backend of a website and used Route 53 to assign a custom domain to the server.",
+      "Implemented CI/CD pipelines that significantly reduced deployment time, enabling faster and more efficient releases."
+    ],
+    "skills": ["Amazon EC2", "Tailwind CSS", "Node.js", "React Native", "Amazon Route 53", "MongoDB", "Next.js", "Express.js", "React.js", "AWS"]
+  },
+  {
+    "id": "3",
+    "role": "Software Engineer Intern",
+    "company": "Cerence Inc.",
+    "period": "Jan 2023 - Jul 2023",
+    "description": [
+      "Implemented and enhanced dialog flow system to improve Intent Recognition by 26%.",
+      "Led efforts to optimize and refine the Intent Recognition capabilities of the virtual assistant.",
+      "Developed and implemented strategies to enhance user interaction by improving the accuracy of Intent Recognition."
+    ],
+    "skills": ["JavaScript", "Tailwind CSS", "Node.js", "TypeScript", "Redux.js", "Express.js"]
+  },
+  {
+    "id": "4",
+    "role": "Full-stack Developer (Internship)",
+    "company": "Shopout India",
+    "period": "Mar 2022 - May 2022",
+    "description": [
+      "Contributed to full-stack development tasks using React.js and Node.js.",
+      "Collaborated with the team to implement new features and fix bugs.",
+      "Gained hands-on experience with Git version control and reactive programming paradigms."
+    ],
+    "skills": ["React.js", "Node.js", "Express.js", "Redux.js", "JavaScript", "CSS", "Git", "HTML"]
+  },
+  {
+    "id": "5",
+    "role": "Full-stack Developer (Internship)",
+    "company": "Vebsigns Technologies",
+    "period": "Dec 2021 - Jan 2022",
+    "description": [
+      "Responsible for building quality & efficient backend code for MongoDB databases in Node.js for software applications.",
+      "Accountable for creating good-looking & user-friendly websites with frontend development skills in React.js.",
+      "Built full-fledged websites with features like authentication, dynamic databases, etc.",
+      "Gained experience building industry-level software and assembling them using industry standards."
+    ],
+    "skills": ["React.js", "Node.js", "Express.js", "MongoDB", "Redux.js", "JavaScript", "HTML5", "Bootstrap"]
+  }
+]
