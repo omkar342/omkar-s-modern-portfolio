@@ -6,7 +6,7 @@ import Skills from './components/Skills';
 import Experience from './components/Experience';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
-import ChatAssistant from './components/ChatAssistant';
+
 
 const App: React.FC = () => {
   return (
@@ -24,8 +24,6 @@ const App: React.FC = () => {
       <footer className="bg-[#020010] border-t border-white/5 py-12 text-center text-slate-500 text-sm relative z-10">
         <p className="font-display">&copy; {new Date().getFullYear()} Omkar. Crafted with <span className="text-primary">React</span>.</p>
       </footer>
-
-      <ChatAssistant />
     </div>
   );
 };

@@ -15,7 +15,9 @@ const Contact: React.FC = () => {
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
-    alert('Transmission received. I will respond shortly.');
+    const subject = `Portfolio Contact from ${formData.name}`;
+    const body = `Name: ${formData.name}\nEmail: ${formData.email}\n\nMessage:\n${formData.message}`;
+    window.location.href = `mailto:omkarjadhav095@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     setFormData({ name: '', email: '', message: '' });
   };
 
@@ -58,7 +60,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-white font-semibold">Location</h4>
                   <p className="text-slate-400">
-                    Pune, Bangalore, Hyderabad, India
+                    Pune, Bangalore, Hyderabad, Chennai
                   </p>
                 </div>
               </div>
