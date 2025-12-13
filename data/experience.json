@@ -16,7 +16,7 @@
     "id": "2",
     "role": "Full Stack Developer",
     "company": "Civil Guruji",
-    "period": "Aug 2023 - Mar 2025",
+    "period": "Aug 2023 - Feb 2025",
     "description": [
       "Enhanced website performance by 30% through efficient API development and played a key role in creating a more intuitive and visually appealing user interface (UI).",
       "Provisioned an EC2 instance, configured it with NGINX and deployed both the frontend and backend of a website and used Route 53 to assign a custom domain to the server.",

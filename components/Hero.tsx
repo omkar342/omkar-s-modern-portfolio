@@ -156,7 +156,7 @@ const Hero: React.FC = () => {
         </h1>
 
         <p className="max-w-2xl text-lg md:text-xl text-slate-400 mb-10 leading-relaxed font-light">
-          Hi, I'm Omkar. I build high-performance web applications using MERN, AWS, and modern JavaScript.
+          Hi, I'm Omkar. I build high-performance web applications using MERN, AWS, Azure and modern JavaScript.
           Specializing in scalable backend systems and optimized frontend experiences.
         </p>
 

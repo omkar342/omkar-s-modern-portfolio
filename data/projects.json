@@ -1,56 +1,65 @@
 [
   {
-    "id": "1",
-    "title": "E-Commerce Analytics",
-    "description": "A comprehensive analytics dashboard with real-time data visualization. Features dark mode, customizable widgets, and inventory predictions.",
-    "tags": ["React", "TypeScript", "Node.js", "MongoDB"],
-    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
-    "github": "https://github.com",
-    "link": "https://example.com"
+    "id": "new-1",
+    "title": "Malicious File Monitor",
+    "description": "Developed an application in TypeScript that monitors a specified folder and its subfolders for new or updated files, checking them for malware using the VirusTotal API. If a file is identified as malicious, it is moved to a \"quarantine\" folder, and a detailed notification is sent to a Slack channel about the action taken.",
+    "tags": ["TypeScript", "Node.js", "VirusTotal API", "Slack API"],
+    "imageUrl": "/projects_images/malicious-monitor.png",
+    "github": "https://github.com/omkar342/Malicious-File-Monitor",
+    "link": "https://github.com/omkar342/Malicious-File-Monitor"
   },
   {
-    "id": "2",
-    "title": "AI Content Generator",
-    "description": "An AI-powered content creation suite leveraging the Gemini API. Generates marketing copy, code snippets, and images in seconds.",
-    "tags": ["Next.js", "Gemini API", "Tailwind", "Stripe"],
-    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1000",
-    "github": "https://github.com",
-    "link": "https://example.com"
+    "id": "new-2",
+    "title": "Meeting Management System",
+    "description": "Developed a platform for colleges and organizations to schedule & manage online meetings. Automated deployments with Docker and GitHub Actions for smooth integration and scaling. Set up NGINX as a reverse proxy to enhance secure access.",
+    "tags": ["ReactJs", "NextJs", "Javascript", "Docker"],
+    "imageUrl": "/projects_images/meeting-system.png",
+    "github": "https://github.com/omkar342/Meeting-Management-System",
+    "link": "https://github.com/omkar342/Meeting-Management-System"
   },
   {
-    "id": "3",
-    "title": "Cloud Task Manager",
-    "description": "A collaborative workspace for remote teams. Features real-time updates via WebSockets, drag-and-drop kanban boards, and team roles.",
-    "tags": ["MERN", "Socket.io", "AWS", "Docker"],
-    "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=1000",
-    "github": "https://github.com",
-    "link": "https://example.com"
+    "id": "new-3",
+    "title": "Video Repository",
+    "description": "Video Repository, enabling efficient storage, streaming & sharing of videos. Utilized NodeJS, ExpressJS & Typescript to build a secure & organized platform for easy video file management.",
+    "tags": ["NodeJS", "ExpressJS", "MongoDB", "TypeScript"],
+    "imageUrl": "/projects_images/video-repo.png",
+    "github": "https://github.com/omkar342/Video-Repository",
+    "link": "https://github.com/omkar342/Video-Repository"
   },
   {
-    "id": "1",
-    "title": "E-Commerce Analytics",
-    "description": "A comprehensive analytics dashboard with real-time data visualization. Features dark mode, customizable widgets, and inventory predictions.",
-    "tags": ["React", "TypeScript", "Node.js", "MongoDB"],
-    "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=1000",
-    "github": "https://github.com",
-    "link": "https://example.com"
+    "id": "4",
+    "title": "Chatty",
+    "description": "Real-time chatting app, built with ReactJs and Socket.io. Features instant messaging, user presence, and typing indicators.",
+    "tags": ["ReactJs", "Socket.io", "Node.js"],
+    "imageUrl": "/projects_images/chatty.png",
+    "github": "https://github.com/omkar342/Ayna_Chat_App",
+    "link": "https://github.com/omkar342/Ayna_Chat_App"
   },
   {
-    "id": "2",
-    "title": "AI Content Generator",
-    "description": "An AI-powered content creation suite leveraging the Gemini API. Generates marketing copy, code snippets, and images in seconds.",
-    "tags": ["Next.js", "Gemini API", "Tailwind", "Stripe"],
-    "imageUrl": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1000",
-    "github": "https://github.com",
-    "link": "https://example.com"
+    "id": "5",
+    "title": "V-duo",
+    "description": "Real-time video chatting app, built with ReactJs and Socket.io. Supports peer-to-peer video calls and screen sharing.",
+    "tags": ["ReactJs", "Socket.io", "WebRTC"],
+    "imageUrl": "/projects_images/v-duo.png",
+    "github": "https://github.com/omkar342/V-Duo",
+    "link": "https://github.com/omkar342/V-Duo"
   },
   {
-    "id": "3",
-    "title": "Cloud Task Manager",
-    "description": "A collaborative workspace for remote teams. Features real-time updates via WebSockets, drag-and-drop kanban boards, and team roles.",
-    "tags": ["MERN", "Socket.io", "AWS", "Docker"],
-    "imageUrl": "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=1000",
-    "github": "https://github.com",
-    "link": "https://example.com"
+    "id": "6",
+    "title": "Taskmate",
+    "description": "A ReactJS based to-do list app for efficient task management. Features task categorization, due dates, and local storage persistence.",
+    "tags": ["ReactJs", "MongoDB", "NodeJS", "ExpressJS", "TypeScript"],
+    "imageUrl": "/projects_images/taskmate.png",
+    "github": "https://github.com/omkar342/task-mate",
+    "link": "https://github.com/omkar342/task-mate"
+  },
+  {
+    "id": "7",
+    "title": "New-s Tab Extension",
+    "description": "This is the new-tab type of extension which will keep you updated with latest news on your new tab.",
+    "tags": ["JavaScript", "Browser Extension"],
+    "imageUrl": "/projects_images/news-tab.png",
+    "github": "https://github.com/omkar342/New-s-Tab",
+    "link": "https://microsoftedge.microsoft.com/addons/detail/news-tab/anchgkkmjjfccdpcihekalfallhciohi"
   }
 ]
